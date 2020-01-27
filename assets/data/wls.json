@@ -6873,84 +6873,84 @@
 			"url": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/fantasy/84-arrow-ns.jpg",
 			"thumbUrl": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/fantasy/84-arrow-ns-thumb.jpg",
 			"name": "Arrow-NS",
-			"category": "fantasy,abstract,amoled,WithNSLogo"
+			"category": "Recent,fantasy,abstract,amoled,WithNSLogo"
 		},
 		{
 			"author": " ",
 			"url": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/fantasy/84-arrow.jpg",
 			"thumbUrl": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/fantasy/84-arrow-thumb.jpg",
 			"name": "Arrow",
-			"category": "fantasy,abstract,amoled,WithoutNSLogo"
+			"category": "Recent,fantasy,abstract,amoled,WithoutNSLogo"
 		},
 		{
 			"author": " ",
 			"url": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/fantasy/85-venom-ns.jpg",
 			"thumbUrl": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/fantasy/85-venom-ns-thumb.jpg",
 			"name": "Venom-NS",
-			"category": "fantasy,amoled,WithNSLogo"
+			"category": "Recent,fantasy,amoled,WithNSLogo"
 		},
 		{
 			"author": " ",
 			"url": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/fantasy/85-venom.jpg",
 			"thumbUrl": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/fantasy/85-venom-thumb.jpg",
 			"name": "Venom",
-			"category": "fantasy,amoled,WithoutNSLogo"
+			"category": "Recent,fantasy,amoled,WithoutNSLogo"
 		},
 		{
 			"author": " ",
 			"url": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/fantasy/86-black-widow-ns.jpg",
 			"thumbUrl": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/fantasy/86-black-widow-ns-thumb.jpg",
 			"name": "Black Widow-NS",
-			"category": "fantasy,abstract,amoled,WithNSLogo"
+			"category": "Recent,fantasy,abstract,amoled,WithNSLogo"
 		},
 		{
 			"author": " ",
 			"url": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/fantasy/86-black-widow.jpg",
 			"thumbUrl": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/fantasy/86-black-widow-thumb.jpg",
 			"name": "Black Widow",
-			"category": "fantasy,abstract,amoled,WithoutNSLogo"
+			"category": "Recent,fantasy,abstract,amoled,WithoutNSLogo"
 		},
 		{
 			"author": " ",
 			"url": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/fantasy/87-joker-ns.jpg",
 			"thumbUrl": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/fantasy/87-joker-ns-thumb.jpg",
 			"name": "Joker-NS",
-			"category": "fantasy,abstract,amoled,WithNSLogo"
+			"category": "Recent,fantasy,abstract,amoled,WithNSLogo"
 		},
 		{
 			"author": " ",
 			"url": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/fantasy/87-joker.jpg",
 			"thumbUrl": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/fantasy/87-joker-thumb.jpg",
 			"name": "Joker",
-			"category": "fantasy,abstract,amoled,WithoutNSLogo"
+			"category": "Recent,fantasy,abstract,amoled,WithoutNSLogo"
 		},
 		{
 			"author": "Rajesh Jangid",
 			"url": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/abstract/129-mind-twister-ns.jpg",
 			"thumbUrl": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/abstract/129-mind-twister-ns-thumb.jpg",
 			"name": "Mind Twister-NS",
-			"category": "abstract,amoled,WithNSLogo"
+			"category": "Recent,abstract,amoled,WithNSLogo"
 		},
 		{
 			"author": " ",
 			"url": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/abstract/129-mind-twister.jpg",
 			"thumbUrl": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/abstract/129-mind-twister-thumb.jpg",
 			"name": "Mind Twister",
-			"category": "abstract,amoled,WithoutNSLogo"
+			"category": "Recent,abstract,amoled,WithoutNSLogo"
 		},
 		{
 			"author": " ",
 			"url": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/abstract/130-freez-ns.jpg",
 			"thumbUrl": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/abstract/130-freez-ns-thumb.jpg",
 			"name": "Freez-NS",
-			"category": "abstract,amoled,WithNSLogo"
+			"category": "Recent,abstract,amoled,WithNSLogo"
 		},
 		{
 			"author": " ",
 			"url": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/abstract/130-freez.jpg",
 			"thumbUrl": "https://cdn.jsdelivr.net/gh/RajeshJangid911/NS-JSON/assets/abstract/130-freez-thumb.jpg",
 			"name": "Freez",
-			"category": "abstract,amoled,WithoutNSLogo"
+			"category": "Recent,abstract,amoled,WithoutNSLogo"
 		}
 	]
 }
